@@ -1,0 +1,17 @@
+autoload/plugged/*
+coc.nvim
+fzf
+fzf.vim
+goyo.vim
+lightline.vim
+nerdtree
+onedark.vim
+sxhkd-vim
+vimagit
+vim-commentary
+vim-css-color
+vim-polyglot
+vim-rooter
+vim-snippets
+vim-surround
+vimwiki
